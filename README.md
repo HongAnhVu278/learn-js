@@ -1,1 +1,3 @@
 # learn-js
+
+first commit
